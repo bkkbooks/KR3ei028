@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei028_001.yaml, hash: 'sha256:e97663f3b0e1fa36330f11a19dacc070e4bbb7c44c8b0ce7e55a5f8aaa3b901d'}
-  - {seq: 3, filename: KR3ei028_003.yaml, hash: 'sha256:7e2bfb0f987a5d458289507ae31747ab250c13526b83b3076c27ad4650e92b52'}
+  - {seq: 1, filename: KR3ei028_001.yaml, hash: 'sha256:bbe08ab6579ff31517929b8139b89b6d3f20f081fe7ec388aa69b76cdd1005e0'}
+  - {seq: 3, filename: KR3ei028_003.yaml, hash: 'sha256:53e21548558aa369f27b009c1c8f4459bc7c28afb035701667e89f7a492e44e3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:5f14c182deb2581f03277170fc5cc2435a797d3d340fbf9b2ca22035c7cc25ad'}
-  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:9a08c215f77351c9d2883bcb5d4fb8bcc3df20e51b4239edabb82e5713bf8d20'}
+  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:6bf5e574d193257c8659cc9287e151d61c28ceee321ba9373981fbee66346600'}
+  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:3c9da3bc234535287574004e7e03f8387d6a4430774da8edcb5545dc801f483f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1183,7 +1183,4 @@ table_of_contents:
   label: 附類經圖翼針灸要覽
   type: section
   level: 2
-hash: sha256:2b50ba1784c74198aebc3163c5bfe9aa04bc35fe00424f2e1e7a4b7e6972cb27
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:87aac596cff0d074ef14d39982b83c943eb0a0b0fe9f485a3a724d600a5ea291
