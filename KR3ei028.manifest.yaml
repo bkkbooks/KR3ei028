@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei028/v1
 canonical_location: https://kanripo.org/bkk/KR3ei028/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 婦人規
   identifiers:
@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei028_001.yaml, hash: 'sha256:bbe08ab6579ff31517929b8139b89b6d3f20f081fe7ec388aa69b76cdd1005e0'}
-  - {seq: 3, filename: KR3ei028_003.yaml, hash: 'sha256:53e21548558aa369f27b009c1c8f4459bc7c28afb035701667e89f7a492e44e3'}
+  - {seq: 1, filename: KR3ei028_001.yaml, hash: 'sha256:95d1ea654110028c0b661dc97a0d38c0b873a4fdd10933261368c1b861ca293c'}
+  - {seq: 3, filename: KR3ei028_003.yaml, hash: 'sha256:9c5beadf0396d95b3fd59b57b3edd01ace57c7a249a10c7cedb664846ca651d5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:6bf5e574d193257c8659cc9287e151d61c28ceee321ba9373981fbee66346600'}
-  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:3c9da3bc234535287574004e7e03f8387d6a4430774da8edcb5545dc801f483f'}
+  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:49d10f8aeda723ee111b46277f192ff2adf0d54ac1bf413f43a9131b1e7e2413'}
+  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:af11ea0c2935fc89c3a7cbce4c59f490db6fe441dd6cb87a4621e0ed6993bf51'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1183,4 +1183,7 @@ table_of_contents:
   label: 附類經圖翼針灸要覽
   type: section
   level: 2
-hash: sha256:87aac596cff0d074ef14d39982b83c943eb0a0b0fe9f485a3a724d600a5ea291
+hash: sha256:5432e22657451fcdccf8ef07e5d79d97e6f0472deb94c71b89e215d0334bafa1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
