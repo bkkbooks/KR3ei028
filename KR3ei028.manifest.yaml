@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3ei028_001.yaml, hash: 'sha256:95d1ea654110028c0b661dc97a0d38c0b873a4fdd10933261368c1b861ca293c'}
   - {seq: 3, filename: KR3ei028_003.yaml, hash: 'sha256:9c5beadf0396d95b3fd59b57b3edd01ace57c7a249a10c7cedb664846ca651d5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:49d10f8aeda723ee111b46277f192ff2adf0d54ac1bf413f43a9131b1e7e2413'}
-  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:af11ea0c2935fc89c3a7cbce4c59f490db6fe441dd6cb87a4621e0ed6993bf51'}
+  - {seq: 1, role: markers, filename: assets/KR3ei028_001.markers.yaml, hash: 'sha256:76649279d65356004b71a1af00cc37c120156699cb806ef6ce66232eea9842a7'}
+  - {seq: 3, role: markers, filename: assets/KR3ei028_003.markers.yaml, hash: 'sha256:e8cd91d53e1f66d0c12d0ff3322eac59168853a69dba9ee8583d1188559cd36e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1183,7 +1183,7 @@ table_of_contents:
   label: 附類經圖翼針灸要覽
   type: section
   level: 2
-hash: sha256:5432e22657451fcdccf8ef07e5d79d97e6f0472deb94c71b89e215d0334bafa1
+hash: sha256:6fe40d2298339769c7e46e95c65e9e1c5fc5f88197ac894981783855a80f67e6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

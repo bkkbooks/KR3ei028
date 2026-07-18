@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3ei028_001-jc.yaml, hash: 'sha256:bbe08ab6579ff31517929b8139b89b6d3f20f081fe7ec388aa69b76cdd1005e0'}
   - {seq: 3, filename: KR3ei028_003-jc.yaml, hash: 'sha256:53e21548558aa369f27b009c1c8f4459bc7c28afb035701667e89f7a492e44e3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei028_001-jc.markers.yaml, hash: 'sha256:be1b4c6d7a053d53092725a168c214046e8333bbda024d9121960f88fa20d617'}
-  - {seq: 3, role: markers, filename: assets/KR3ei028_003-jc.markers.yaml, hash: 'sha256:d0d044daccffd739c0bd8811ce4d2dff99e89237b9ec2ecf5e200cd617ba19cb'}
+  - {seq: 1, role: markers, filename: assets/KR3ei028_001-jc.markers.yaml, hash: 'sha256:19b893172e961a55699f54f8399acf42ff622e35af7ff583ed9718213fc0ee73'}
+  - {seq: 3, role: markers, filename: assets/KR3ei028_003-jc.markers.yaml, hash: 'sha256:b00bd10525a6735e5e2a9c0dcbfc6ff2b39fec7776f6d7f17ec2f30145aff02e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1183,4 +1183,4 @@ table_of_contents:
   label: 附類經圖翼針灸要覽
   type: section
   level: 2
-hash: sha256:a03ac16025264e74bfa5412800b252a3b5775dceb702cda57b8c7c9136aabf93
+hash: sha256:1e14a0ac45ef2ebb7997ebfa2fb1bf3843511132cf14ca33ed430b8a673586e6
